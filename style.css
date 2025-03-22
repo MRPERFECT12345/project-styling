@@ -1,0 +1,24 @@
+h1{
+    color: coral;
+    font-style:italic;
+    font-size: 50px;
+    text-shadow: 3px 3px 3px cornflowerblue;
+    inline-size: inherit;
+    text-decoration: underline;
+   }
+   #q1{
+       font-size: 25px;
+       color: aqua;
+       text-decoration: line-through;
+       font-style:oblique;
+       text-decoration-color:chartreuse;
+   }
+   #w2{
+       font-style: unset;
+       font-size: 20px;
+       color:yellowgreen;
+       background-color:yellow;
+       width: 100px;
+        text-decoration-line: underline;
+        text-decoration-color: crimson;
+   }
